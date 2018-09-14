@@ -1,0 +1,5 @@
+Config:
+  joinop: '&6[&3+&6] &c[Player]'
+  joindefault: '&6[&3+&6] &2[Player]'
+  leaveop: '&6[&3+&6] &c[Player]'
+  leavedefault: '&6[&3+&6] &2[Player]'

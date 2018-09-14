@@ -1,0 +1,10 @@
+main: de.funky33.customjoin.Main
+version: 0.9
+name: CustomJoin
+author: funky33
+
+permissions:
+    customjoin.join.op:
+      default: op
+    customjoin.quit.op:
+      default: op
